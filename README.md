@@ -2,7 +2,7 @@
 
 Here are my projects related to time series analysis:
 
-- ARIMA-Prophet-LSTM Folder: This folder contains datasets on temperature alongside meticulously detailed notebook files for each model: ARIMA, Prophet, and LSTM. These notebooks provide comprehensive explanations, including the models' setup, the rationale behind their use, parameter tuning, and their application to the temperature data for forecasting.
+- ARIMA-Prophet-LSTM Folder: This folder contains datasets on temperature alongside meticulously detailed notebook files for each model: ARIMA, Prophet, and LSTM. These notebooks provide comprehensive explanations, including neccessarily statistical tests, models' setup, the rationale behind their use, parameter tuning, and their application to the temperature data for forecasting.
 
 - StackingModels Folder: With more complex weather data, I've expanded the collection with additional models and explanations, focusing on more complex scenarios. It includes:
 
